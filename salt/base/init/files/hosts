@@ -1,0 +1,11 @@
+10.10.10.81	lvs01.glk.com
+10.10.10.82	lvs02.glk.com
+10.10.10.83	web01.blog.glk.com
+10.10.10.84	web02.blog.glk.com
+10.10.10.11	nfs	nfs01.glk.com
+10.10.10.21	backup.glk.com
+10.10.10.31	db01.blog.glk.com
+10.10.10.32	slave.db01.blog.glk.com
+10.10.10.10	admin.glk.com
+10.10.10.101 test.glk.com
+10.10.10.41	redis.glk.com
